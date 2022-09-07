@@ -1,0 +1,108 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  pointer-events:none;
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  height:3709px;
+  min-width:200px;
+  max-width:1440px;
+  margin:auto;
+  background-color:rgba(255, 255, 255, 1);
+  overflow:hidden;
+}
+.Frame-outer{
+  pointer-events:none;
+  z-index:2;
+}
+.section1{
+  position:relative;
+  z-index:87;
+  pointer-events:none;
+  margin-left:0px;
+  width:1440px;
+  min-width:1440px;
+  height:905px;
+  margin-top:0px;
+  margin-bottom:2804px;
+  min-height:905px;
+  background-color:rgba(253, 238, 220, 1);
+}
+.section1-outer{
+  pointer-events:none;
+  z-index:87;
+  position:relative;
+  display:flex;
+}
+.Ellipse-1{
+  position:relative;
+  z-index:90;
+  pointer-events:none;
+  margin-left:61px;
+  width:100px;
+  min-width:100px;
+  height:100px;
+  margin-top:-3653px;
+  margin-bottom:3553px;
+  min-height:100px;
+  content:url(assets/images/Ellipse_1.png);
+}
+.Ellipse-1-outer{
+  pointer-events:none;
+  z-index:90;
+  position:relative;
+  display:flex;
+}
+.The-Munchies-Dessert{
+  position:relative;
+  z-index:89;
+  pointer-events:none;
+  margin-left:568px;
+  width:924px;
+  min-width:924px;
+  height:537px;
+  margin-top:-3487px;
+  margin-bottom:2950px;
+  min-height:537px;
+  content:url(assets/images/The_Munchies_Desserts.png);
+}
+.The-Munchies-Dessert-outer{
+  pointer-events:none;
+  z-index:89;
+  position:relative;
+  display:flex;
+}
+.q100--natural-fresh-{
+  position:relative;
+  z-index:88;
+  pointer-events:none;
+  margin-left:121px;
+  width:563px;
+  min-width:563px;
+  margin-top:-3444px;
+  margin-bottom:3096px;
+  min-height:348px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Open Sans;
+  font-weight:800;
+  font-size:64px;
+  line-height:87.5px;
+}
